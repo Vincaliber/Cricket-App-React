@@ -1,0 +1,7 @@
+.home {
+  background: url('./extras/t20.jpg');
+  
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+}

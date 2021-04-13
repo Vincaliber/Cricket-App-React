@@ -1,0 +1,66 @@
+.allPlayers {
+        padding: 0;
+        text-align: center;
+}
+
+.imgContainer {
+        /* height: auto;
+           width: 100%;
+           max-width: 400px;
+           /* background: lightgrey; */
+        /*height: 260px;
+           box-shadow: 5px 5px 5px 0px #ccc;
+           text-align: center;
+           padding: 10px;
+           border: 1px solid #ccc; */
+        text-align: center;
+}
+
+.card-img-top {
+        max-width: 205px;
+}
+
+.card {
+        display: inline-block;
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin: 20px;
+        background: #f0932b;
+
+}
+
+.chosenPlayer {
+        width: 100%;
+        border: 5px solid #fff;
+        /* padding: 10px; */
+        max-width: 280px;
+        height: 280px;
+        background: #ccc;
+        box-shadow: 0px 0px 5px 5px #fff;
+}
+
+.highlighted {
+        background: #f0932b;
+        color: #fff;
+        height: 400px;
+        border: 1px solid #000
+}
+
+.highlighted h2 {
+        padding: 10px 105px;
+}
+
+.mb-10 {
+        margin-bottom: 10px;
+}
+
+.playerCategory {
+        font-size: 18px;
+        padding: 0 60px;
+}
+
+.table {
+        background-color: #fff;
+        color: #000;
+        border: 1px solid #ccc
+}

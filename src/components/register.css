@@ -1,0 +1,22 @@
+.register {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.regForm {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid #274993;
+    border-radius: 10px;
+    padding: 20px 40px;
+
+}
+
+.regBtn{
+    background-color: #274993;
+    color: #fff;
+}
